@@ -7,6 +7,7 @@ function App() {
     <div className="App">
         <h1> We are Moving in today !!! </h1>
         <h2> Wifi hooked up!!</h2>
+        <h3> Carpeting tomorrow !! </h3>
     </div>
   );
 }
