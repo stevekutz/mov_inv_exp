@@ -9,6 +9,7 @@ function App() {
         <h2> Wifi hooked up!!</h2>
         <h3> Carpeting tomorrow !! </h3>
         <h4> Studio Monitors Today !!</h4>
+        <h4> Furniture ordered !!</h4>
     </div>
   );
 }
