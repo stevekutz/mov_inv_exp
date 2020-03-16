@@ -10,6 +10,7 @@ function App() {
         <h3> Carpeting tomorrow !! </h3>
         <h4> Studio Monitors Today !!</h4>
         <h4> Furniture ordered !!</h4>
+        <h5> Monitors replaced ! </h5>
     </div>
   );
 }
