@@ -11,6 +11,7 @@ function App() {
         <h4> Studio Monitors Today !!</h4>
         <h4> Furniture ordered !!</h4>
         <h5> Monitors replaced ! </h5>
+        <h5> Desk/chair arrived, electronics returned</h5>
     </div>
   );
 }
