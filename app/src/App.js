@@ -12,6 +12,7 @@ function App() {
         <h4> Furniture ordered !!</h4>
         <h5> Monitors replaced ! </h5>
         <h5> Desk/chair arrived, electronics returned</h5>
+        <h5> Assembled appliances, furniture, real coding starts tomorrow </h5>
     </div>
   );
 }
