@@ -14,6 +14,7 @@ function App() {
         <h5> Desk/chair arrived, electronics returned</h5>
         <h5> Assembled appliances, furniture, real coding starts tomorrow </h5>
         <h5> Got garage, moved in a lot, unpacked a bit more </h5>
+        <h5> Rebuilding shelves, more furniture arrived </h5>
     </div>
   );
 }
