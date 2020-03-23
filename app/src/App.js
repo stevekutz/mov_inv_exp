@@ -16,7 +16,8 @@ function App() {
         <h5> Got garage, moved in a lot, unpacked a bit more </h5>
         <h5> Rebuilding shelves, more furniture arrived </h5>
         <h5> Remainer of major furniture arriving tomorrow, music studio almost rebuilt</h5>
-        <h5> First book shelve installed </h5>
+        <h5> First book shelf installed </h5>
+        <h5> Set up cross fit gym in garage, finsihed shelves, unpacked music studio</h5>
     </div>
   );
 }
