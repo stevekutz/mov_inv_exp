@@ -20,6 +20,7 @@ function App() {
         <h5> Set up cross fit gym in garage, finsihed shelves, unpacked music studio</h5>
         <h5> Final dealings with insurance underway </h5>
         <h5> Almost completed with unpacking and rebuilding cross fit </h5>
+        <h5> Coding project tomorrow </h5>
     </div>
   );
 }
